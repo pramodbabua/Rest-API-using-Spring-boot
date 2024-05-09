@@ -1,9 +1,10 @@
 Prerequisites:
-Java 17 
+Java 17 &
 Maven 
 
 Build:
 mvn clean package 
+
 Run:
 mvn clean sprint-boot:run
 
