@@ -6,7 +6,7 @@ Build:
 mvn clean package 
 
 Run:
-mvn clean sprint-boot:run
+mvn clean spring-boot:run
 
 Details:
 API Endpoint - Operations supported  
